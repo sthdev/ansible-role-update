@@ -1,4 +1,4 @@
-Role Name
+update_packages
 =========
 
 Updates all packages to their latest versions. Tested on CentOS 7.
