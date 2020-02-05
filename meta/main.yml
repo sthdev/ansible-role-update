@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: update
   author: sthdev
   description: Updates all installed packages to their latest versions
 
