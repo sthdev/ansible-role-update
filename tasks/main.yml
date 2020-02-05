@@ -1,0 +1,9 @@
+---
+# tasks file for ansible-role-update
+
+- block:
+  - name: update packages
+    package:
+      name: '*'
+      state: latest
+  
